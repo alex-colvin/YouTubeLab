@@ -8,7 +8,7 @@ services:
       dockerfile: Dockerfile.dev
     ports: 
     #8000 matches Dockerfile.dev
-      - "8001:8000"
+      - "8002:8000"
     #run entrypoint script
     command: sh ./entrypoint.sh
     depends_on:
