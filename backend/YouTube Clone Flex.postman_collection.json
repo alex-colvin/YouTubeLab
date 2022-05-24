@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "5db0148d-d7fd-48e3-b978-d88192f57068",
+		"_postman_id": "3283c80b-972b-4016-ab68-ec3a4b394632",
 		"name": "YouTube Clone Flex",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -23,15 +23,15 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/auth/register/",
+							"raw": "http://ytcbackend-env.eba-rxeyz2ny.us-east-2.elasticbeanstalk.com/api/auth/register/",
 							"protocol": "http",
 							"host": [
-								"127",
-								"0",
-								"0",
-								"1"
+								"ytcbackend-env",
+								"eba-rxeyz2ny",
+								"us-east-2",
+								"elasticbeanstalk",
+								"com"
 							],
-							"port": "8000",
 							"path": [
 								"api",
 								"auth",
@@ -57,15 +57,15 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/auth/login/",
+							"raw": "http://ytcbackend-env.eba-rxeyz2ny.us-east-2.elasticbeanstalk.com/api/auth/login/",
 							"protocol": "http",
 							"host": [
-								"127",
-								"0",
-								"0",
-								"1"
+								"ytcbackend-env",
+								"eba-rxeyz2ny",
+								"us-east-2",
+								"elasticbeanstalk",
+								"com"
 							],
-							"port": "8000",
 							"path": [
 								"api",
 								"auth",
@@ -91,15 +91,15 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/auth/login/refresh/",
+							"raw": "http://ytcbackend-env.eba-rxeyz2ny.us-east-2.elasticbeanstalk.com/api/auth/login/refresh/",
 							"protocol": "http",
 							"host": [
-								"127",
-								"0",
-								"0",
-								"1"
+								"ytcbackend-env",
+								"eba-rxeyz2ny",
+								"us-east-2",
+								"elasticbeanstalk",
+								"com"
 							],
-							"port": "8000",
 							"path": [
 								"api",
 								"auth",
@@ -141,15 +141,15 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/comments/",
+							"raw": "http://ytcbackend-env.eba-rxeyz2ny.us-east-2.elasticbeanstalk.com/api/comments/",
 							"protocol": "http",
 							"host": [
-								"127",
-								"0",
-								"0",
-								"1"
+								"ytcbackend-env",
+								"eba-rxeyz2ny",
+								"us-east-2",
+								"elasticbeanstalk",
+								"com"
 							],
-							"port": "8000",
 							"path": [
 								"api",
 								"comments",
@@ -165,15 +165,15 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/comments/b8d7r4y2",
+							"raw": "http://ytcbackend-env.eba-rxeyz2ny.us-east-2.elasticbeanstalk.com/api/comments/b8d7r4y2",
 							"protocol": "http",
 							"host": [
-								"127",
-								"0",
-								"0",
-								"1"
+								"ytcbackend-env",
+								"eba-rxeyz2ny",
+								"us-east-2",
+								"elasticbeanstalk",
+								"com"
 							],
-							"port": "8000",
 							"path": [
 								"api",
 								"comments",
